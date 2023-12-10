@@ -1,4 +1,4 @@
-## Olá, me chamo Hugo!
+## Olá, me chamo Hugo 😄 
 
 Sou estudante de Engenharia da Computação fascinado em aprender. Atuei 2 anos como analista de suporte em TI e atualmente busco atuar na área de desenvolvimento de sistemas.
 <br>
