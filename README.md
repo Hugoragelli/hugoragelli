@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, me chamo Hugo!
+
+## Sou estudante de Engenharia da Computação fascinado em aprender. Atuei 2 anos como analista de suporte em TI e atualmente busco me aventurar na área de desenvolvimento de sistemas.
 
 <!--
 **Hugoragelli/hugoragelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
