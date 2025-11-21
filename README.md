@@ -4,7 +4,7 @@ Natural de Montes Claros (MG), atualmente morando em São Paulo, estudante de En
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/MarioTerron/logos/master/expressjs-icon.png" width="40" height="40" /> &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/express/ffffff" width="40" height="40" /> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 
 <br>
