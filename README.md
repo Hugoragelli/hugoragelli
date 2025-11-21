@@ -3,11 +3,8 @@
 Natural de Montes Claros (MG), atualmente morando em São Paulo, estudante de Engenharia da Computação e fascinado em aprender. Atuei 2 anos como analista de suporte em TI e atualmente realizando integrações entre sistemas.
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;&nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> &nbsp;&nbsp;
-
 <img src="https://raw.githubusercontent.com/MarioTerron/logos/master/expressjs-icon.png" width="40" height="40" /> &nbsp;&nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 
 <br>
