@@ -1,6 +1,8 @@
 ## Olá, me chamo Hugo 😄 
 
-Natural de Montes Claros (MG), atualmente morando em São Paulo, estudante de Engenharia da Computação e fascinado em aprender. Atuei 2 anos como analista de suporte em TI e atualmente realizando integrações entre sistemas.
+Sou desenvolvedor backend especializado em Node.js, Express e MongoDB. Trabalho com criação de APIs REST, integrações entre sistemas, Webhooks e automações. Possuo certificação AWS Cloud Practitioner e conhecimento em serviços como Lambda, API Gateway e S3.
+
+Atualmente, foco em melhorar minha base em arquitetura, testes, boas práticas com Express e deploy em cloud.
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;&nbsp;
