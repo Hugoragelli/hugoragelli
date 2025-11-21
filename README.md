@@ -2,10 +2,14 @@
 
 Natural de Montes Claros (MG), atualmente morando em São Paulo, estudante de Engenharia da Computação e fascinado em aprender. Atuei 2 anos como analista de suporte em TI e atualmente realizando integrações entre sistemas.
 <br>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" /> &nbsp;&nbsp;
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" /> &nbsp;&nbsp;
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" /> &nbsp;&nbsp;
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;&nbsp;
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> &nbsp;&nbsp;
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" style="filter: invert(92%);" /> &nbsp;&nbsp;
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+
 <br>
 ##
 <div>
